@@ -165,3 +165,10 @@ cython_debug/
 
 *.jpg
 *.zip
+artifacts/prepare_callbacks/checkpoint_dir/model.h5
+artifacts/prepare_callbacks/tensorboard_log_dir/tensorboard_log_dirtb_logs_at_2024-04-16-17-42-48/train/events.out.tfevents.1713269571.LAPTOP-VQS1FDM1.31188.0.v2
+artifacts/prepare_callbacks/tensorboard_log_dir/tensorboard_log_dirtb_logs_at_2024-04-16-17-42-48/validation/events.out.tfevents.1713273540.LAPTOP-VQS1FDM1.31188.1.v2
+artifacts/prepare_callbacks/tensorboard_log_dirtb_logs_at_2024-04-16-17-42-48/train/events.out.tfevents.1713269571.LAPTOP-VQS1FDM1.31188.0.v2
+.gitignore
+artifacts/prepare_callbacks/tensorboard_log_dirtb_logs_at_2024-04-16-17-42-48/train/events.out.tfevents.1713269571.LAPTOP-VQS1FDM1.31188.0.v2
+artifacts/training/model.h5
