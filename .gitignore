@@ -172,3 +172,4 @@ artifacts/prepare_callbacks/tensorboard_log_dirtb_logs_at_2024-04-16-17-42-48/tr
 .gitignore
 artifacts/prepare_callbacks/tensorboard_log_dirtb_logs_at_2024-04-16-17-42-48/train/events.out.tfevents.1713269571.LAPTOP-VQS1FDM1.31188.0.v2
 artifacts/training/model.h5
+artifacts/prepare_base_model/base_model_updated.h5
