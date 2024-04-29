@@ -1,0 +1,14 @@
+FROM python:3.8-slim  
+python 3.8 linux machine which is light weight
+
+WORKDIR /app
+inside container or inside root directory , app folder is the working directory
+
+COPY . . 
+copy all files present in prediction_service and paste into my working directory i.e. app
+
+RUN pip install -r requirements.txt
+
+CMD ["streamlit", "run", "app.py"] 
+tell the container that whenever this container is ran then the above command command must be executed 
+i.e streamlit run app.py
